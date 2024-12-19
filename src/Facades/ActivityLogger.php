@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\ActivityLogger\Facades;
+namespace AbdulQuadri\ActivityLogger\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
